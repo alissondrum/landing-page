@@ -212,6 +212,11 @@ hr {
     height: 300px;
 }
 
+.click {
+    color: white;
+    
+}
+
 .footer {
     background-color: rgb(10, 77, 60);
     display: flex;
